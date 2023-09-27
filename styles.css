@@ -1,0 +1,38 @@
+* {
+    border-style: border-box;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: rebeccapurple;
+    text-align: center;
+}
+
+table {
+    border: 2px solid darkorchid;
+    width: 650px;
+    margin 0 auto;
+}
+
+td, th {
+    border-bottom: 1px solid darkorchid;
+}
+
+.lastRow {
+    border-bottom: 0 !important;
+}
+
+thead {
+    background-color: plum;
+}
+
+.Tag, .Attribute {
+    background-color: beige;
+}
